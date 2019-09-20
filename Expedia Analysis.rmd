@@ -1,6 +1,6 @@
 ---
 title: "Stats 140SL Final Code"
-author: "Albert Na"
+author: "Annie Choi, Albert Na, Breanna Qin, Chris Wan, Kathy Fu, Kristee Song, Tiffaney Pi"
 date: "March 11, 2019"
 output: html_document
 ---
